@@ -1,5 +1,5 @@
 Date Of Submission: 9/20/2018
-Sender: 
+Sender: tester
 Receiver: dodo
 Message Data: This message is a test
 
